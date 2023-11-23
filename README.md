@@ -18,7 +18,7 @@ This Python application provides a graphical user interface (GUI) to draw points
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/bezier-catmull-interpolation.git`
+1. Clone the repository: `git clone https://github.com/amireskandariii/curveinterpolation.git`
 2. Navigate to the project directory.
 3. Install requirements with `pip install -r requirements.txt` or `pip3 install -r requirements.txt`.
 
