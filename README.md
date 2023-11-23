@@ -32,3 +32,12 @@ This Python application provides a graphical user interface (GUI) to draw points
 
 Screenshots of some drawing done with the application is included.
 
+- Bezier Curve Interpolation Algorithm:
+
+![411da878-2ae0-4a1b-bef3-65db2c74d5b8](https://github.com/amireskandariii/curveinterpolation/assets/129678832/df73f328-7ef3-4c9e-8b07-953783cb3892)
+
+- Catmull-Rom Curve Interpolation Algorithm:
+
+![7beddbdb-0ab1-4229-abb1-82171c12eb7a](https://github.com/amireskandariii/curveinterpolation/assets/129678832/153515ae-9646-4b98-8c2d-f1e28706c48e)
+
+
